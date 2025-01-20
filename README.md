@@ -41,7 +41,6 @@ Benefits:
 Repository:
 The complete code, wiring diagrams, and instructions can be found in the repository. Feel free to clone the project, modify it to your needs, and even share improvements!
 
-🔗 "Door_Lock\Door_Lock.ino"
 
 I hope you find this project helpful for your own DIY security system. If you have any questions or suggestions, feel free to open an issue or submit a pull request.
 
