@@ -1,8 +1,3 @@
-# Arduino-Door-Lock-System
-Certainly! Here’s a blog post idea you can use for your Arduino Door Lock System project on your GitHub:
-
----
-
 # Arduino Door Lock System - A Smart and Secure Home Automation Project
 
 Welcome to the GitHub repository for the **Arduino Door Lock System**! In this project, I demonstrate how to build a simple yet effective electronic door lock system using an Arduino. This project can be applied to various home automation scenarios, providing an added layer of security to your home or office.
